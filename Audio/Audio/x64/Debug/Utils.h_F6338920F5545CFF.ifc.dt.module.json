@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Utils.obj",
+            "outputs": [
+                "x64\\Debug\\Utils.h_F6338920F5545CFF.ifc.dt.module.json",
+                "x64\\Debug\\Utils.h_F6338920F5545CFF.ifc.dt.d.json",
+                "x64\\Debug\\Utils.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Thomas\\Documents\\GitHub\\lyo-3m-switch-s2p1-01\\Audio\\Audio\\Utils.h",
+                    "source-path": "c:\\users\\thomas\\documents\\github\\lyo-3m-switch-s2p1-01\\audio\\audio\\utils.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
